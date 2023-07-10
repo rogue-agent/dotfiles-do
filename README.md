@@ -1,4 +1,4 @@
-# BSPWM | Polybar themes collection with Theme Selector
+# Dotfiles-Do, BSPWM | Polybar themes collection with Theme Selector
 
 ## Puedes leer esta pagina en español [AQUI](INICIO.md)
 
